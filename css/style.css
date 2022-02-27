@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Redressed&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+/* fonts and colors*/
+
+body  {
+	font-family: 'Lora', serif;
+	font-size: 18 px;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Redressed', cursive;
+	font-weight: bolder;
+}
+
+
+a{
+	text-decoration: none;
+}
